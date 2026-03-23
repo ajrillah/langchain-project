@@ -1,0 +1,5 @@
+# venv
+source venvlangchain/Scripts/activate
+
+# Install dependency
+pip install langchain dotenv langchain-huggingface text-generation langchainhub
